@@ -45,6 +45,15 @@ A Python-based interactive logic gate simulator with drag-and-drop components, w
 - Press `S` to save the current circuit  
 - Press `L` to load the last saved circuit
 
+## Why does this project exist even though there are other logic gate simulators online?
+
+Because unlike the others, this simulator offers:
+- Real-time reactions  
+- The ability to save and reopen circuits  
+- Wire bending and dynamic interaction  
+
+These features make it uniquely responsive and more immersive than standard simulators.
+
 ## Screenshots
 
 <img width="998" height="627" alt="image" src="https://github.com/user-attachments/assets/e4670bcd-4654-4e59-85b5-e4c1b3bd4706" />
